@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Angular 
 - 💞️ I’m looking to collaborate on Angular-java projects 
-- 📫 How to reach me https://www.linkedin.com/in/bilel-feki-dit-kaaniche-53b648216/
+- 📫 How to reach me https://www.linkedin.com/in/bilel-feki-dit-kaaniche/
 
 <!---
 bilelfeki/bilelfeki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
